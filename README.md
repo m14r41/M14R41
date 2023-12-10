@@ -143,7 +143,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m14r41&theme=algolia)](https://github.com/m14r41/github-profile-trophy)
 
-
 ---
 <div align="center">
   <h1> 🤝 My Contribution on github 🤝 </h1>
@@ -153,6 +152,7 @@
     <img src="https://streak-stats.demolab.com/?user=m14r41&theme=dark" alt="GitHub Streak">
   </a>
 </p>
+
 
 ---
 <div align="center">
@@ -171,7 +171,7 @@
 <p align="left">
   <img alt="Madhurendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m14r41&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117"/> <img alt="Madhurendra Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m14r41&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&bg_color=0D1117"/>
 </p>
-
+<img src="https://myreadme.vercel.app/api/embed/m14r41?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
