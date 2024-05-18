@@ -105,12 +105,12 @@
 
 |           Category            |                                             Tools                                              |
 | --------------------------- | -------------------------------------------------------------------------------------------- |
-|    Web App Pentesting 🌐     |                Burp Suite 🌐, OWASP ZAP 🌐, Nikto 🌐, Nmap 🌐, Acunetix 🌐                |
-|   Mobile App Pentesting 📱   |                     MobSF 📱, Frida 📱, Appie 📱, QARK 📱, Drozer 📱                      |
-|      API Pentesting 📡       | Postman 📡, OWASP API Security Project 📡, Swagger Inspector 📡, API Fortress 📡, Insomnia |
-| Secure Source Code Review 🔐 |        SonarQube 🔐, Semgrep 🔐, Checkmarx 🔐, Fortify 🔐, Semmle 🔐, Coverity 🔐        |
-|    Network Pentesting 🌐     |   Metasploit Framework 🌐, Nmap 🌐, Wireshark 🌐, Burp Suite 🌐, Nexpose 🌐, Nessus 🌐   |
-|  Thick Client Pentesting 💻  |   CFF Explorer, Fiddler, TCP Dump, DLLSpy, Echo Mirage, dnSpy, Process Explorer 💻, JD-GUI 💻, OllyDbg 💻, IDA Pro 💻, radare2 💻                  |
+|    Web App Pentesting  |                Burp Suite 🌐, OWASP ZAP 🌐, Nikto 🌐, Nmap 🌐, Acunetix 🌐                |
+|   Mobile App Pentesting  |                     MobSF 📱, Frida 📱, Appie 📱, QARK 📱, Drozer 📱                      |
+|      API Pentesting | Postman 📡, OWASP API Security Project 📡, Swagger Inspector 📡, API Fortress 📡, Insomnia |
+| Secure Source Code Review |        SonarQube 🔐, Semgrep 🔐, Checkmarx 🔐, Fortify 🔐, Semmle 🔐, Coverity 🔐        |
+|    Network Pentesting |   Metasploit Framework 🌐, Nmap 🌐, Wireshark 🌐, Burp Suite 🌐, Nexpose 🌐, Nessus 🌐   |
+|  Thick Client Pentesting |   CFF Explorer, Fiddler, TCP Dump, DLLSpy, Echo Mirage, dnSpy, Process Explorer 💻, JD-GUI 💻, OllyDbg 💻, IDA Pro 💻, radare2 💻                  |
  
 </p>
 
