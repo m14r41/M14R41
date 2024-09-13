@@ -165,15 +165,15 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m14r41&theme=tokyonight&show_icons=true" alt="GitHub Activity" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=m14r41&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
   <a href="https://github.com/m14r41">
     <img 
         alt="m14r41 Activity Graph" 
         src="https://github-readme-activity-graph.vercel.app/graph?username=m14r41&theme=react-dark" 
         width="900"  
-        height="400"/>
-   </a>
-<br/>  
+        height="400"
+    />
+</a>
+
 </p>
 
 ---
@@ -188,5 +188,3 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-
