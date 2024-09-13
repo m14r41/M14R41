@@ -30,9 +30,11 @@
 
 
 ---
-<div align="left">
-  <h1> 🙋‍♂️ About Me 🙋‍♂️ </h1>
+<div align="left" style="display: flex; align-items: center;">
+  <h1>🙋‍♂️ About Me 🙋‍♂️  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-left: 10px;"/></h1>
+ 
 </div>
+
 <p align="left">
   🔭 Experienced Information Security Analyst. <br>
   🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
@@ -185,10 +187,10 @@
   <h1> 📊 My GitHub Stats 📊</h1>
 </div>
 
-<p align="left">
+<p align="center">
   <img alt="Madhurendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m14r41&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117"/> <img alt="Madhurendra Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m14r41&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&bg_color=0D1117"/>
 </p>
+<p align="center">
 <img src="https://myreadme.vercel.app/api/embed/m14r41?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+  </p>
+
