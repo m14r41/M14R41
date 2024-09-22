@@ -105,14 +105,24 @@
   <h1>🛡️ Pentesting  🛡️ </h1>
 </div>
 
-|           Category            |                                             Tools                                              |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-|    Web App Pentesting  |                Burp Suite 🌐, OWASP ZAP 🌐, Nikto 🌐, Nmap 🌐, Acunetix 🌐                |
-|   Mobile App Pentesting  |                     MobSF 📱, Frida 📱, Appie 📱, QARK 📱, Drozer 📱                      |
-|      API Pentesting | Postman 📡, OWASP API Security Project 📡, Swagger Inspector 📡, API Fortress 📡, Insomnia |
-| Secure Source Code Review |        SonarQube 🔐, Semgrep 🔐, Checkmarx 🔐, Fortify 🔐, Semmle 🔐, Coverity 🔐        |
-|    Network Pentesting |   Metasploit Framework 🌐, Nmap 🌐, Wireshark 🌐, Burp Suite 🌐, Nexpose 🌐, Nessus 🌐   |
-|  Thick Client Pentesting |   CFF Explorer, Fiddler, TCP Dump, DLLSpy, Echo Mirage, dnSpy, Process Explorer 💻, JD-GUI 💻, OllyDbg 💻, IDA Pro 💻, radare2 💻                  |
+
+
+
+
+
+ |       **Category**       |                                          **Tools**                                           |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| **Web App Pentesting**   | **Burp Suite Pro 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Nikto 🌐**, **Acunetix, HCL-AppScan 🌐**, **Wfuzz 🌐**, **SQLMap 🌐**, **Amass 🌐**, **NetSparker 🌐**, **Fortify-WebInspect 🌐** |
+| **Mobile App Pentesting**| **Android::**<br>**MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX 📱**, **AndroidStudio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy 📱**, **Objection 📱**, **adb 📱**<br>**iOS::**<br>**MobSF 📱**, **Frida 📱**, **Objection 📱**, **Cycript 📱**, **iOS Hook 📱**, **Needle 📱**, **Class-dump 📱**, **Burp Suite Mobile Assistant 📱**, **SSL Kill Switch 2 📱**, **iMazing 📱** |
+| **API Pentesting**       | **Postman 📡**, **Snyk 📡** **Insomnia 📡**, **Burp Suite Pro 📡**, **OWASP Amass 📡**, **42Crunch API Security 📡**, **Swagger Inspector 📡**, **Kite Runner 📡**, **SecApps Intercept 📡** |
+| **Secure Code Review**   | **SonarQube 🔐**, **Semgrep 🔐**, **Checkmarx 🔐**, **Veracode 🔐**, **Fortify-WorkbencAudit 🔐**, **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
+| **Network Pentesting**   | **Nmap 🌐**, **Wireshark 🌐**, **Metasploit Framework 🌐**, **Nessus 🌐**, **OpenVAS 🌐**, **Responder 🌐**, **CrackMapExec 🌐**, **BloodHound 🌐**, **Netcat 🌐**, **Bettercap 🌐** |
+| **Thick Client Pentesting** | **Fiddler 💻**, **Burp Suite Pro 💻**, **dnSpy 💻**, **IDA Pro 💻**, **Ghidra 💻**, **Process Explorer 💻**, **CFF Explorer 💻**, **OllyDbg 💻**, **x64dbg 💻**, **Wireshark 💻** |
+| **Cloud Security**       | **Prowler ☁️**, **ScoutSuite ☁️**, **CloudSploit ☁️**, **Pacu ☁️**, **Steampipe ☁️**, **CloudMapper ☁️**, **NCC Group Scout ☁️**, **kube-bench ☁️** |
+| **Container Security**   | **Trivy 🐳**, **Aqua Microscanner 🐳**, **Clair 🐳**, **Anchore 🐳**, **Docker Bench 🐳**, **kube-hunter 🐳**, **Falco 🐳**, **Sysdig 🐳**, **Snyk 🐳** |
+
+
+
  
 </p>
 
