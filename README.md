@@ -38,7 +38,7 @@
 <p align="left">
   🔭 Experienced Information Security Consultant <br>
   🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
-  📶 7x CVE 
+  📶 7x CVE <br>
   🌱 Preparing for CRTP/OSCP. <br>
   👯 Collaborate on Open Source Projects. <br>
   🎮 CTF Player at Hack The Box and TryHackMe. <br>
@@ -83,7 +83,7 @@
 📜 CEH_v11 **By EC Council**  
 📜 CEH Practical **By EC Council**  
 📜 CEH Master **By EC Council**  
-📜 Multi-Cloud Red Teaming Analyst by CyberWarFare Labs 
+📜 Multi-Cloud Red Teaming Analyst by **CyberWarFare Labs** 
 📜 mobile-application-penetration-testing **By TCM Security**  
 📜 practical-api-hacking **By TCM Security**  
 📜 windows-privilege-escalation **By TCM Security**  
