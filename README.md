@@ -70,7 +70,7 @@
     <a href="https://github.com/m14r41/Segmentation-Testing">🔍 Segmentation-Testing</a> - Tools and scripts for network segmentation testing.<br>
     <a href="https://github.com/m14r41/Clickjacking-Poc">🕵️ Clickjacking-Poc</a> - Proof of concept for clickjacking vulnerabilities.<br>
     <a href="https://github.com/m14r41/Interview-CyberSecurity">💬 Interview-CyberSecurity</a> - Interview questions and resources for cybersecurity professionals.<br>
-    <a href="https://github.com/m14r41/m14r41.github.io">🌐 m14r41.github.io</a> - Personal website and portfolio.
+                                                                                                                                                                    
   </div>
 </div>
 
