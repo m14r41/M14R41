@@ -116,9 +116,9 @@
 | ------------------------ | ------------------------------------------------------------------------------------------- |
 | **Web App Pentesting**   | **Burp Suite Pro 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Nikto 🌐**, **Acunetix, HCL-AppScan 🌐**, **Wfuzz 🌐**, **SQLMap 🌐**, **Amass 🌐**, **NetSparker 🌐**, **Fortify-WebInspect 🌐** |
 | **Mobile App Pentesting**| **Android::**<br>**MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX 📱**, **AndroidStudio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy 📱**, **Objection 📱**, **adb 📱**<br>**iOS::**<br>**MobSF 📱**, **Frida 📱**, **Objection 📱**, **Cycript 📱**, **iOS Hook 📱**, **Needle 📱**, **Class-dump 📱**, **Burp Suite Mobile Assistant 📱**, **SSL Kill Switch 2 📱**, **iMazing 📱** |
-| **API Pentesting**       | **Postman 📡**, **Insomnia 📡**, **Burp Suite Pro 📡**, **OWASP Amass 📡**, **42Crunch API Security 📡**, **Swagger Inspector 📡**, **Kite Runner 📡**, **SecApps Intercept 📡** |
-| **Secure Code Review**   | **SonarQube 🔐**, **Snyk 📡**,**Semgrep 🔐**, **Checkmarx 🔐**, **Veracode 🔐**, **Fortify-WorkbencAudit 🔐**, **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
-| **Thick Client Pentesting** | **Fiddler 💻**, **Burp Suite Pro 💻**, **dnSpy 💻**, **IDA Pro 💻**, **Ghidra 💻**, **Process Explorer 💻**, **CFF Explorer 💻**, **OllyDbg 💻**, **x64dbg 💻**, **Wireshark 💻** |
+| **API Pentesting**       | **Postman 📡**, **Burp Suite Pro 📡**, **Swagger Inspector 📡**, **Kite Runner 📡**, **SecApps Intercept 📡** **Insomnia 📡**, **OWASP Amass 📡**, **42Crunch API Security 📡**  |
+| **Secure Code Review**   | **SonarQube 🔐**, **Snyk 📡**,**Semgrep 🔐**,**Fortify-WorkbencAudit 🔐** **Checkmarx 🔐**, **Veracode 🔐**, , **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
+| **Thick Client Pentesting** | **Fiddler 💻**, **Sysinternals Suite💻** , **dnSpy 💻**, **de4dot💻**, **IDA Pro 💻**,**Process Explorer 💻**, **CFF Explorer 💻**, **OllyDbg 💻** **x64dbg 💻**, **Ghidra 💻**, **Burp Suite Pro 💻** , **Wireshark 💻**,  |
 | **Network Pentesting**   | **Nmap 🌐**, **Wireshark 🌐**, **Metasploit Framework 🌐**, **Nessus 🌐**, **OpenVAS 🌐**, **Responder 🌐**, **CrackMapExec 🌐**, **BloodHound 🌐**, **Netcat 🌐**, **Bettercap 🌐** |
 | **Cloud Security**       | **Prowler ☁️**, **ScoutSuite ☁️**, **CloudSploit ☁️**, **Pacu ☁️**, **Steampipe ☁️**, **CloudMapper ☁️**, **NCC Group Scout ☁️**, **kube-bench ☁️** |
 | **Container Security**   | **Trivy 🐳**, **Aqua Microscanner 🐳**, **Clair 🐳**, **Anchore 🐳**, **Docker Bench 🐳**, **kube-hunter 🐳**, **Falco 🐳**, **Sysdig 🐳**, **Snyk 🐳** |
@@ -202,7 +202,40 @@
 <p align="center">
   <img alt="Madhurendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m14r41&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117"/> <img alt="Madhurendra Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m14r41&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&bg_color=0D1117"/>
 </p>
-<p align="center">
-<img src="https://myreadme.vercel.app/api/embed/m14r41?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-  </p>
+
+
+
+
+<div  align="center">
+  <table style="text-align: center;">
+    <tr>
+      <td style="text-align: center;">
+        <img 
+          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdqZmZ5cDRzNGV0dXVlN2xkMXdmYzdmOHhucHY4ZmVpMDNoZnM0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFvFtrhrmIFFe/giphy.webp" 
+          alt="Centered GIF" 
+          height="200px" 
+          width="200px" />
+      </td>
+      <td style="text-align: center;">
+        <img 
+          src="https://media2.giphy.com/media/3oEjHWpiVIOGXT5l9m/200w.webp?cid=ecf05e47ngkwc1i7duqdpbnkoe7q6j0o9ovps7ueia52ks8g&ep=v1_gifs_related&rid=200w.webp&ct=g" 
+          alt="Middle GIF" 
+          height="200px" 
+          width="200px" />
+      </td>
+      <td style="text-align: right;">
+        <img 
+          src="https://media0.giphy.com/media/e6fFK6brsPVHG/giphy.webp?cid=ecf05e474q2my31iey1q8zzi3bdqkxqtzgvgh550paox4x31&ep=v1_gifs_related&rid=giphy.webp&ct=g" 
+          alt="Right-Aligned GIF" 
+          height="200px" 
+          width="200px" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
 
