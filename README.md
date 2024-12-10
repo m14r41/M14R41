@@ -36,10 +36,10 @@
 </div>
 
 <p align="left">
-  🔭 Experienced Information Security Consultant <br>
-  🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
   📶 50x Plus CVE <br>
   🌱 Preparing for CRTP/OSCP. <br>
+  🔭 Experienced Information Security Consultant <br>
+  🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
   👯 Collaborate on Open Source Projects. <br>
   🎮 CTF Player at Hack The Box and TryHackMe. <br>
   🔍 Cybersecurity Professional Exploring Red Teaming <br>
