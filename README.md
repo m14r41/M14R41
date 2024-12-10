@@ -83,7 +83,7 @@
 📜 CEH_v11 **By EC Council**  
 📜 CEH Practical **By EC Council**  
 📜 CEH Master **By EC Council**  
-📜 Multi-Cloud Red Teaming Analyst by **CyberWarFare Labs** 
+📜 Multi-Cloud Red Teaming Analyst by **CyberWarFare Labs** </br>
 📜 mobile-application-penetration-testing **By TCM Security**  
 📜 practical-api-hacking **By TCM Security**  
 📜 windows-privilege-escalation **By TCM Security**  
