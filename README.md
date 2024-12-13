@@ -114,7 +114,7 @@
 
  |       **Category**       |                                          **Tools**                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
-| **Web App Pentesting**   | **Burp Suite Pro 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Nikto 🌐**, **Acunetix, HCL-AppScan 🌐**, **Wfuzz 🌐**, **SQLMap 🌐**, **Amass 🌐**, **NetSparker 🌐**, **Fortify-WebInspect 🌐** |
+| **Web App Pentesting**   | **Burp Suite Pro 🌐**, **Acunetix 🌐, HCL-AppScan 🌐**, **invicti netsparker 🌐**, **Fortify-WebInspect 🌐**, **wp-scan 🌐**, **Nikto 🌐**, **Wfuzz 🌐**, **SQLMap 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐** |
 | **Mobile App Pentesting**| **Android::**<br>**MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX 📱**, **AndroidStudio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy 📱**, **Objection 📱**, **adb 📱**<br>**iOS::**<br>**MobSF 📱**, **Frida 📱**, **Objection 📱**, **Cycript 📱**, **iOS Hook 📱**, **Needle 📱**, **Class-dump 📱**, **Burp Suite Mobile Assistant 📱**, **SSL Kill Switch 2 📱**, **iMazing 📱** |
 | **API Pentesting**       | **Postman 📡**, **Burp Suite Pro 📡**, **Swagger Inspector 📡**, **Kite Runner 📡**, **SecApps Intercept 📡** **Insomnia 📡**, **OWASP Amass 📡**, **42Crunch API Security 📡**  |
 | **Secure Code Review**   | **SonarQube 🔐**, **Snyk 📡**,**Semgrep 🔐**,**Fortify-WorkbencAudit 🔐** **Checkmarx 🔐**, **Veracode 🔐**, , **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
