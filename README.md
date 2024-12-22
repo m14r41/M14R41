@@ -78,7 +78,7 @@
 | [cvss.m14r41.in](https://cvss.m14r41.in)   | CVSS Calculator                       | M14R41               |
 | [sqlmap.m14r41.in](https://sqlmap.m14r41.in) | Generate SQL Injection payloads       | Albert               |
 | [reverse-shell.m14r41.in](https://reverse-shell.m14r41.in) | Generate reverse shell                | 0dayCTF              |
-| [clicjaking.m14r41.in](https://clicjaking.m14r41.in) | Clickjacking PoC                      | M14R41               |
+| [clickjacking.m14r41.in](https://clickjacking.m14r41.in) | Clickjacking PoC                      | M14R41               |
 | [csrf.m14r41.in](https://csrf.m14r41.in)     | CSRF Generator                        | f0rb1dd3n0x193       |
 
                                                                                                                                                                     
