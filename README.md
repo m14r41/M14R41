@@ -75,7 +75,7 @@
 
 | URL                           | Description                           | Credit               |
 |-------------------------------|---------------------------------------|----------------------|
-| [cvss.m14r41.in](https://cvss.m14r41.in)   | CVSS Calculator                       | M14R41               |
+| [cvss.m14r41.in](https://cvss.m14r41.in)   | CVSS Calculator                       | cvssjs               |
 | [sqlmap.m14r41.in](https://sqlmap.m14r41.in) | Generate SQL Injection payloads       | Albert               |
 | [reverse-shell.m14r41.in](https://reverse-shell.m14r41.in) | Generate reverse shell                | 0dayCTF              |
 | [clickjacking.m14r41.in](https://clickjacking.m14r41.in) | Clickjacking PoC                      | M14R41               |
