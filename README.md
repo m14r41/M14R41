@@ -66,10 +66,10 @@
 <div align="left">
   <h1>🚀 My GitHub Project 🚀 </h1>
   <div align="left">
-    <a href="https://github.com/m14r41/PentestingEverything">🛠️ PentestingEverything</a> - Collection of penetration testing tools and resources.<br>
-    <a href="https://github.com/m14r41/Segmentation-Testing">🔍 Segmentation-Testing</a> - Tools and scripts for network segmentation testing.<br>
-    <a href="https://github.com/m14r41/Scripting4Hackers">  💬 Sripting4Hackers</a>      - Interview questions and resources for cybersecurity professionals.<br>
-    <a href="https://github.com/m14r41/Clickjacking-Poc">   🕵️ Clickjacking-Poc</a>      - Proof of concept for clickjacking vulnerabilities.<br>
+    <a href="https://github.com/m14r41/PentestingEverything"> 🛠️ PentestingEverything</a>  - Collection of penetration testing tools and resources.<br>
+    <a href="https://github.com/m14r41/Scripting4Hackers">    🕵️ Sripting4Hackers</a>      - Awesome Resources for learning Python and Bash for hackers.<br>
+    <a href="https://github.com/m14r41/Clickjacking-Poc">     💬 Clickjacking-Poc</a>      - Proof of concept for clickjacking vulnerabilities.<br>
+    <a href="https://github.com/m14r41/Segmentation-Testing"> 🔍 Segmentation-Testing</a>  - Tools and scripts for network segmentation testing.<br>
     <br>
     
 
