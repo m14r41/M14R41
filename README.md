@@ -214,7 +214,9 @@
 
 <div align="center">
   
-  ![](https://raw.githubusercontent.com/m14r41/M14R41/main/github.svg)
+  ![](https://github.com/m14r41/M14R41/blob/main/github.svg)
+
+  
 
 </div>
 
