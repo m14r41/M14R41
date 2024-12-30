@@ -66,12 +66,12 @@
 <div align="left">
   <h1>🚀 My GitHub Projects 🚀 </h1>
   <div align="left">
-    <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of penetration testing tools and resources.<br>
+    <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of over 15 types of penetration testing tools and resources.<br>
     <a href="https://github.com/m14r41/Scripting4Hackers">    🛠️ Scripting4Hackers</a>     - Awesome resources for learning Python and Bash for hackers.<br>
     <a href="https://github.com/m14r41/Clickjacking-Poc">     🖱️ Clickjacking-Poc</a>      - Proof of concept for clickjacking vulnerabilities.<br>
     <a href="https://github.com/m14r41/LinuxEnv">             🐧   LinuxEnv      </a>          - Automate Enviromnet Variable configuraiton on Linux OS.<br>
     <a href="https://github.com/m14r41/Segmentation-Testing"> 🌐 Segmentation-Testing</a>  - Tools and scripts for network segmentation testing.<br>
-    <a href="https://github.com/m14r41/Json2HTML">            🗂️ Json2HTML</a>           - Convert JSON data into styled HTML tables.<br>
+    <a href="https://github.com/m14r41/Json2HTML">            🗂️ Json2HTML</a>           - Convert JSON data into styled HTML.<br>
     <a href="https://github.com/m14r41/word2pdf">             📄 Word2PDF</a>            - Convert Word documents to PDF easily.<br>
   </div>
 </div>
