@@ -130,11 +130,6 @@
 
 
 
-
-
-
-Here’s the updated list with a **Firewall Pentesting** category added:
-
 ---
 
 |       **Category**       |                                          **Tools**                                           |
