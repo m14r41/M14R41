@@ -39,30 +39,13 @@
 
 <p align="left">
   📶 50x Plus CVE <br>
-  🌱 Preparing for CRTP/OSCP. <br>
   🔭 Experienced Information Security Consultant <br>
   🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
   👯 Collaborate on Open Source Projects. <br>
-  🎮 CTF Player at Hack The Box and TryHackMe. <br>
-  🔍 Cybersecurity Professional Exploring Red Teaming <br>
-  💂 Passionate About Offensive Security.
+ 
 </p>
 
 
----
-<div align="left">
-  <h1>🛡️ Pentesting Skills 🛡️</h1>
-</div>
-<p align="left"> 
-🎭 Perform Vulnerability Assessments 🔍<br>
-🎭 Perform penetration tests on Web applications 🌐<br>
-🎭 Perform penetration test on API 📡<br>
-🎭 Network penetration test 🌐<br>
-🎭 Secure Source Code Review 🔐<br>
-🎭 Mobile Pentesting 📱<br>
-🎭 Thick Client Pentesting 💻<br>
-🎭 Desktop Application Pentesting 🖥️<br>
-</p>
 
 ---
 <div align="left">
@@ -97,32 +80,6 @@
 
 ---
 
-<div align="left">
-  <h1>🎓 Certificates List 🎓 </h1>
-</div>
-
-📜 CEH_v11 **By EC Council**  
-📜 CEH Practical **By EC Council**  
-📜 CEH Master **By EC Council**  
-📜 Multi-Cloud Red Teaming Analyst by **CyberWarFare Labs** </br>
-📜 mobile-application-penetration-testing **By TCM Security**  
-📜 practical-api-hacking **By TCM Security**  
-📜 windows-privilege-escalation **By TCM Security**  
-📜 Introduction to Cyber Security **By Tryhackme**  
-📜 Pre Security **By Tryhackme**  
-📜 Technical Support Fundamentals by Google **At Coursera**  
-📜 Introduction to Cybersecurity Tools & Cyber Attacks by IBM **At Coursera**  
-📜 Programming for Everybody by University of Michigan **At Coursera**  
-📜 APIsec Course Certificate **By APIsec University**  
-📜 Intro to Bug Bounty Hunting and Web Application Hacking by @NahamSec **By Udemy**  
-📜 BUG BOUNTY HUNTING WITH BURP SUITE by Kuldeep Sharma  **By Udemy**  
-📜 Official (ISC)² Certified in Cybersecurity **By ISC²**  
-📜 Certified AppSec Practitioner **By SecOps Group**  
-</p>
-
-
-
-
 ---
 <div align="left">
   <h1>🛡️ Pentesting & Tools 🛡️ </h1>
@@ -132,10 +89,11 @@
 
 ---
 
+
 |       **Category**       |                                          **Tools**                                           |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
-| **Web Application Pentesting**   | **Burp Suite Pro 🌐**, **Acunetix 🌐**, **HCL-AppScan 🌐**, **Invicti Netsparker 🌐**, **Fortify WebInspect 🌐**, **WPScan 🌐**, **Nikto 🌐**, **Nuclei 🌐**, **Wfuzz 🌐**, **SQLMap 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Dirb 🌐**, **FFUF 🌐**, **WhatWeb 🌐** |
-| **Android Security**  | **MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX-gui 📱**, **Android Studio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy b📱**, **Objection 📱**, **adb 📱**, **AndroBugs 📱**, **Quark Engine 📱**, **AppMon 📱**, **ApkScan 📱** |
+| **Web Application Pentesting**   | **Burp Suite Pro 🌐**, **Acunetix 🌐**, **HCL-AppScan 🌐**, **Invicti Netsparker 🌐**, **Fortify WebInspect 🌐**, **WPScan 🌐**, **Nikto 🌐**, **Nuclei 🌐**, **SQLMap 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Dirb 🌐**, **FFUF 🌐**, **WhatWeb 🌐** |
+| **Android Security**  | **MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX-gui 📱**, **Android Studio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy 📱**, **Objection 📱**, **adb 📱**, **AndroBugs 📱**, **Quark Engine 📱**, **AppMon 📱**, **ApkScan 📱** |
 | **iOS Security**     | **MobSF 📲**, **Frida 📲**, **Objection 📲**, **Cycript 📲**, **iOS Hook 📲**, **Needle 📲**, **Class-dump 📲**, **SSL Kill Switch 2 📲**, **iMazing 📲**, **Passionfruit 📲**, **ios-decrypt 📲** |
 | **API Pentesting**       | **Postman 📡**, **Burp Suite Pro 📡**, **Swagger UI 📡**, **Kite Runner 📡**, **Insomnia 📡**, **GraphQL Voyager 📡**, **GraphQL Raider 📡** |
 | **Secure Code Review**   | **SonarQube 🔐**, **Snyk 🔐**, **Semgrep 🔐**, **Fortify-Workbench Audit 🔐**, **Checkmarx 🔐**, **Veracode 🔐**, **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
@@ -145,9 +103,12 @@
 | **Cloud Security**       | **Prowler ☁️**, **ScoutSuite ☁️**, **CloudSploit ☁️**, **Pacu ☁️**, **Steampipe ☁️**, **CloudMapper ☁️**, **NCC Group Scout ☁️**, **kube-bench ☁️** |
 | **Container Security**   | **Trivy 🐳**, **Aqua Microscanner 🐳**, **Clair 🐳**, **Anchore 🐳**, **Docker Bench 🐳**, **kube-hunter 🐳**, **Falco 🐳**, **Sysdig 🐳**, **Snyk 🐳** |
 | **Firewall Pentesting**  | **hping3 🔥**, **NPing 🔥**, **Scapy 🔥**, **Zmap 🔥**, **firewalk 🔥**, **FTester 🔥**, **Nmap (Firewall Bypass) 🔥**, **Packet Sender 🔥**, **T50 🔥**, **ETTERCAP 🔥**, **TCPReplay 🔥** |
+| **WiFi Pentesting** | **Aircrack-ng 📶**, **Kismet 📶**, **Bettercap 📶**, **Reaver 📶**, **Fluxion 📶**, **Wireshark 📶**, **hcxtools 📶**, **Fern WiFi Cracker 📶**, **Evil Twin Attack Tools 📶**, **Wifiphisher 📶**, **Hashcat (WPA2 Cracking) 📶** |
+| **DevSecOps** | **GitHub Advanced Security 🔧**, **Trivy 🔧**, **Snyk 🔧**, **Anchore 🔧**, **OWASP Dependency-Check 🔧**,  **jenkins🔧**,**Bandit 🔧**, **Checkmarx 🔧**, **Veracode 🔧**, **SonarQube 🔧**, **Dagda 🔧**, **Sysdig Secure 🔧**, **Cloud Custodian 🔧** |
+| **OSINT (Open-Source Intelligence)** | **theHarvester 🕵️**, **Maltego 🕵️**, **SpiderFoot 🕵️**, **Recon-ng 🕵️**, **Shodan 🕵️**, **FOCA 🕵️**, **Google Dorking 🕵️**, **OSINT Framework 🕵️**, **Metagoofil 🕵️**, **Amass 🕵️**, **GHunt 🕵️**, **Sherlock 🕵️**, **Social-Engineer Toolkit (SET) 🕵️**, **Sublist3r 🕵️**, **PhoneInfoga 🕵️**, **Creepy 🕵️** |
+
 
 ---
-
 
  
 </p>
