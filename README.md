@@ -38,9 +38,7 @@
 </div>
 
 <p align="left">
-  📶 50x Plus CVE <br>
   🔭 Experienced Information Security Consultant <br>
-  🎓 Master's in Certified Ethical Hacking by CE-Council. <br>
   👯 Collaborate on Open Source Projects. <br>
  
 </p>
