@@ -50,16 +50,17 @@
   <h1>🚀 My GitHub Projects 🚀 </h1>
   <div align="left">
     <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of over 15 types of penetration testing tools and resources.<br>
+    <a href="https://github.com/m14r41/scan4secrets"> 🕵️ scan4secrets</a> - Lightweight source code scanner with 400+ detection rules for secrets and sensitive info.<br>
     <a href="https://github.com/m14r41/Scripting4Hackers">    🛠️ Scripting4Hackers</a>     - Awesome resources for learning Python and Bash for hackers.<br>
     <a href="https://github.com/m14r41/SemgrepAnalyzer">      🔍 SemgrepAnalyzer</a>       - Enhanced `Semgrep` tool output in HTML for more visibility.<br>
     <a href="https://github.com/m14r41/Clickjacking-Poc">     🖱️ Clickjacking-Poc</a>      - Proof of concept for clickjacking vulnerabilities.<br>
-    <a href="https://github.com/m14r41/LinuxEnv">             🐧   LinuxEnv      </a>      - Automate Enviromnet Variable configuraiton on Linux OS.<br>
+    <a href="https://github.com/m14r41/LinuxEnv">             🐧 LinuxEnv</a>              - Automate Environment Variable configuration on Linux OS.<br>
     <a href="https://github.com/m14r41/Segmentation-Testing"> 🌐 Segmentation-Testing</a>  - Tools and scripts for network segmentation testing.<br>
     <a href="https://github.com/m14r41/Json2HTML">            🗂️ Json2HTML</a>             - Convert JSON data into styled HTML.<br>
     <a href="https://github.com/m14r41/word2pdf">             📄 Word2PDF</a>              - Convert Word documents to PDF easily.<br>
   </div>
 </div>
-<br>
+
 
 
     
@@ -97,15 +98,9 @@
 | **Secure Code Review**   | **SonarQube 🔐**, **Snyk 🔐**, **Semgrep 🔐**, **Fortify-Workbench Audit 🔐**, **Checkmarx 🔐**, **Veracode 🔐**, **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
 | **Thick Client Pentesting** | **Fiddler 💻**, **Sysinternals Suite 💻**, **dnSpy 💻**, **de4dot 💻**, **IDA Pro 💻**, **Process Explorer 💻**, **CFF Explorer 💻**, **OllyDbg 💻**, **x64dbg 💻**, **Ghidra 💻**, **Burp Suite Pro 💻**, **Wireshark 💻** |
 | **Network Pentesting**   | **Nmap 🌐**, **Wireshark 🌐**, **Metasploit Framework 🌐**, **Nessus 🌐**, **OpenVAS 🌐**, **Responder 🌐**, **CrackMapExec 🌐**, **Netcat 🌐**, **Bettercap 🌐** |
-| **Active Directory Pentesting** | **BloodHound 🏢**, **Mimikatz 🔑**, **CrackMapExec 🏢**, **Impacket 📂**, **Kerbrute 🎭**, **Rubeus 🔓**, **LDAPDomainDump 📜**, **SharpHound 🕵️**, **PowerView 👀**, **ADRecon 📊** |
-| **Cloud Security**       | **Prowler ☁️**, **ScoutSuite ☁️**, **CloudSploit ☁️**, **Pacu ☁️**, **Steampipe ☁️**, **CloudMapper ☁️**, **NCC Group Scout ☁️**, **kube-bench ☁️** |
-| **Container Security**   | **Trivy 🐳**, **Aqua Microscanner 🐳**, **Clair 🐳**, **Anchore 🐳**, **Docker Bench 🐳**, **kube-hunter 🐳**, **Falco 🐳**, **Sysdig 🐳**, **Snyk 🐳** |
-| **Firewall Pentesting**  | **hping3 🔥**, **NPing 🔥**, **Scapy 🔥**, **Zmap 🔥**, **firewalk 🔥**, **FTester 🔥**, **Nmap (Firewall Bypass) 🔥**, **Packet Sender 🔥**, **T50 🔥**, **ETTERCAP 🔥**, **TCPReplay 🔥** |
-| **WiFi Pentesting** | **Aircrack-ng 📶**, **Kismet 📶**, **Bettercap 📶**, **Reaver 📶**, **Fluxion 📶**, **Wireshark 📶**, **hcxtools 📶**, **Fern WiFi Cracker 📶**, **Evil Twin Attack Tools 📶**, **Wifiphisher 📶**, **Hashcat (WPA2 Cracking) 📶** |
-| **DevSecOps** | **GitHub Advanced Security 🔧**, **Trivy 🔧**, **Snyk 🔧**, **Anchore 🔧**, **OWASP Dependency-Check 🔧**,  **jenkins🔧**,**Bandit 🔧**, **Checkmarx 🔧**, **Veracode 🔧**, **SonarQube 🔧**, **Dagda 🔧**, **Sysdig Secure 🔧**, **Cloud Custodian 🔧** |
-| **OSINT (Open-Source Intelligence)** | **theHarvester 🕵️**, **Maltego 🕵️**, **SpiderFoot 🕵️**, **Recon-ng 🕵️**, **Shodan 🕵️**, **FOCA 🕵️**, **Google Dorking 🕵️**, **OSINT Framework 🕵️**, **Metagoofil 🕵️**, **Amass 🕵️**, **GHunt 🕵️**, **Sherlock 🕵️**, **Social-Engineer Toolkit (SET) 🕵️**, **Sublist3r 🕵️**, **PhoneInfoga 🕵️**, **Creepy 🕵️** |
 
 
+> 40 + type of Security assessmnet [Check here!](https://github.com/m14r41/PentestingEverything)
 ---
 
  
