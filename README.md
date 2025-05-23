@@ -86,22 +86,7 @@
 
 
 
----
 
-
-|       **Category**       |                                          **Tools**                                           |
-| ------------------------ | ------------------------------------------------------------------------------------------- |
-| **Web Application Pentesting**   | **Burp Suite Pro 🌐**, **Acunetix 🌐**, **HCL-AppScan 🌐**, **Invicti Netsparker 🌐**, **Fortify WebInspect 🌐**, **WPScan 🌐**, **Nikto 🌐**, **Nuclei 🌐**, **SQLMap 🌐**, **OWASP ZAP 🌐**, **Nmap 🌐**, **Dirb 🌐**, **FFUF 🌐**, **WhatWeb 🌐** |
-| **Android Security**  | **MobSF 📱**, **Frida 📱**, **APKTool 📱**, **JADX-gui 📱**, **Android Studio/Genymotion 📱**, **Drozer 📱**, **Magisk Root 📱**, **APKX 📱**, **mitmproxy 📱**, **Objection 📱**, **adb 📱**, **AndroBugs 📱**, **Quark Engine 📱**, **AppMon 📱**, **ApkScan 📱** |
-| **iOS Security**     | **MobSF 📲**, **Frida 📲**, **Objection 📲**, **Cycript 📲**, **iOS Hook 📲**, **Needle 📲**, **Class-dump 📲**, **SSL Kill Switch 2 📲**, **iMazing 📲**, **Passionfruit 📲**, **ios-decrypt 📲** |
-| **API Pentesting**       | **Postman 📡**, **Burp Suite Pro 📡**, **Swagger UI 📡**, **Kite Runner 📡**, **Insomnia 📡**, **GraphQL Voyager 📡**, **GraphQL Raider 📡** |
-| **Secure Code Review**   | **SonarQube 🔐**, **Snyk 🔐**, **Semgrep 🔐**, **Fortify-Workbench Audit 🔐**, **Checkmarx 🔐**, **Veracode 🔐**, **CodeQL 🔐**, **Bandit 🔐**, **FindSecBugs 🔐**, **Gitleaks 🔐** |
-| **Thick Client Pentesting** | **Fiddler 💻**, **Sysinternals Suite 💻**, **dnSpy 💻**, **de4dot 💻**, **IDA Pro 💻**, **Process Explorer 💻**, **CFF Explorer 💻**, **OllyDbg 💻**, **x64dbg 💻**, **Ghidra 💻**, **Burp Suite Pro 💻**, **Wireshark 💻** |
-| **Network Pentesting**   | **Nmap 🌐**, **Wireshark 🌐**, **Metasploit Framework 🌐**, **Nessus 🌐**, **OpenVAS 🌐**, **Responder 🌐**, **CrackMapExec 🌐**, **Netcat 🌐**, **Bettercap 🌐** |
-
-
-> 40 + type of Security assessmnet [Check here!](https://github.com/m14r41/PentestingEverything)
----
 
  
 </p>
