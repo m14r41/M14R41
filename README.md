@@ -77,18 +77,9 @@
   </div>
 </div>
 
----
-
----
-<div align="left">
-  <h1>🛡️ Pentesting & Tools 🛡️ </h1>
-</div>
 
 
 
-
-
- 
 </p>
 
 ---
