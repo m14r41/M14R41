@@ -38,7 +38,7 @@
 </div>
 
 <p align="left">
-  🔭 Experienced Information Security Consultant <br>
+  🔭 Experienced Information Security Consultant || Security Engineer <br>
   👯 Collaborate on Open Source Projects. <br>
  
 </p>
