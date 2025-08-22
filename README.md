@@ -50,6 +50,7 @@
   <h1>🚀 My GitHub Projects 🚀 </h1>
   <div align="left">
     <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of over 15 types of penetration testing tools and resources.<br>
+    <a href="https://github.com/m14r41/Live-Hacker-Wallpaper">🔒 Live-Hacker-Wallpaper</a>  - Hacker Chrome Extention Live wallpaper .<br>
     <a href="https://github.com/m14r41/scan4secrets"> 🕵️ scan4secrets</a> - Lightweight source code scanner with 400+ detection rules for secrets and sensitive info.<br>
     <a href="https://github.com/m14r41/Scripting4Hackers">    🛠️ Scripting4Hackers</a>     - Awesome resources for learning Python and Bash for hackers.<br>
     <a href="https://github.com/m14r41/SemgrepAnalyzer">      🔍 SemgrepAnalyzer</a>       - Enhanced `Semgrep` tool output in HTML for more visibility.<br>
@@ -67,16 +68,17 @@
 
 | URL                           | Description                           | Credit               |
 |-------------------------------|---------------------------------------|----------------------|
+| [wallpaper.m14r41.in](https://wallpaer.m14r41.in)   |Demo Hacker Chrome Extention Live wallpaper                       | m14r41               |
+| [clickjacking.m14r41.in](https://clickjacking.m14r41.in) | Clickjacking PoC                      | M14R41               |
 | [cvss.m14r41.in](https://cvss.m14r41.in)   | CVSS Calculator                       | cvssjs               |
 | [sqlmap.m14r41.in](https://sqlmap.m14r41.in) | Generate SQL Injection payloads       | Albert               |
 | [reverse-shell.m14r41.in](https://reverse-shell.m14r41.in) | Generate reverse shell                | 0dayCTF              |
-| [clickjacking.m14r41.in](https://clickjacking.m14r41.in) | Clickjacking PoC                      | M14R41               |
 | [csrf.m14r41.in](https://csrf.m14r41.in)     | CSRF Generator                        | f0rb1dd3n0x193       |
 
                                                                                                                                                                     
   </div>
 </div>
-
+https://wallpaper.m14r41.in/
 
 
 
