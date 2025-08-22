@@ -68,7 +68,7 @@
 
 | URL                           | Description                           | Credit               |
 |-------------------------------|---------------------------------------|----------------------|
-| [wallpaper.m14r41.in](https://wallpaer.m14r41.in)   |Demo Hacker Chrome Extention Live wallpaper                       | m14r41               |
+| [wallpaper.m14r41.in](https://wallpaper.m14r41.in)   |Demo Hacker Chrome Extention Live wallpaper                       | m14r41               |
 | [clickjacking.m14r41.in](https://clickjacking.m14r41.in) | Clickjacking PoC                      | M14R41               |
 | [cvss.m14r41.in](https://cvss.m14r41.in)   | CVSS Calculator                       | cvssjs               |
 | [sqlmap.m14r41.in](https://sqlmap.m14r41.in) | Generate SQL Injection payloads       | Albert               |
