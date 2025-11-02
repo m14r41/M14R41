@@ -89,7 +89,6 @@
 </div>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/48/000000/c.png" width="48" height="48"/>
   <img src="https://img.icons8.com/plasticine/48/000000/bash.png" width="48" height="48"/>
   <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/></a>
