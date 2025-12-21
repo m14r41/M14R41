@@ -5,8 +5,11 @@
 <h1 align="center"><span style="background-color: green; line-height: 0;"><b>👨🏻‍💻 Hello 👾Hacker👾👨🏻</b><br></span></h1>
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png" alt="TryHackMe" height="50" width="250">
-  <img src="https://www.hackthebox.eu/badge/image/1371618" alt="HackTheBox" height="50" width="250">
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png" height="50">
+  <img src="https://www.hackthebox.eu/badge/image/1371618" height="50">
+</p>
+
 </p>
 
 <p align="center" style="margin-top: 0; margin-bottom: 0;">
