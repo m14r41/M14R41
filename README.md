@@ -7,7 +7,7 @@
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png" height="50">
-  <img src="https://www.hackthebox.eu/badge/image/1371618" height="50">
+  <img src="https://www.hackthebox.eu/badge/image/2413709" height="50">
 </p>
 
 </p>
