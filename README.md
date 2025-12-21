@@ -6,7 +6,8 @@
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png?v=2" height="50">
+<img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png?v=2" alt="madhurendra hacker" height="50"
+      />
   <img src="https://www.hackthebox.eu/badge/image/2413709" height="50">
 </p>
 
