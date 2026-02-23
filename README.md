@@ -31,27 +31,22 @@
   </div>
 </div>
 
-
-
-
-
 ---
+
 <div align="left" style="display: flex; align-items: center;">
   <h1>🙋‍♂️ About Me 🙋‍♂️  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-left: 10px;"/></h1>
  
 </div>
 
 <p align="left">
-  🔭 Experienced Information Security Consultant || Security Engineer <br>
-  👯 Collaborate on Open Source Projects. <br>
- 
+  - Experienced Information Security Consultant || Security Engineer <br>
+  - Collaborate on Open Source Projects. <br>
 </p>
 
-
-
 ---
+
 <div align="left">
-  <h1>🚀 My GitHub Projects 🚀 </h1>
+  <h1> My GitHub Projects  </h1>
   <div align="left">
     <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of over 15 types of penetration testing tools and resources.<br>
     <a href="https://github.com/m14r41/Live-Hacker-Wallpaper">🔒 Live-Hacker-Wallpaper</a>  - Hacker Chrome Extention Live wallpaper .<br>
@@ -65,9 +60,6 @@
     <a href="https://github.com/m14r41/word2pdf">             📄 Word2PDF</a>              - Convert Word documents to PDF easily.<br>
   </div>
 </div>
-
-
-
     
 
 | URL                           | Description                           | Credit               |
@@ -78,18 +70,14 @@
 | [sqlmap.m14r41.in](https://sqlmap.m14r41.in) | Generate SQL Injection payloads       | Albert               |
 | [reverse-shell.m14r41.in](https://reverse-shell.m14r41.in) | Generate reverse shell                | 0dayCTF              |
 | [csrf.m14r41.in](https://csrf.m14r41.in)     | CSRF Generator                        | f0rb1dd3n0x193       |
-
                                                                                                                                                                     
-  </div>
+ </div>
 </div>
-
-
-
 </p>
 
 ---
 <div align="left">
-  <h1>🥇 Programming Languages 🥇 </h1>
+  <h1> Programming Languages  </h1>
 </div>
 
 <p align="left">
@@ -109,19 +97,10 @@
   <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"/>
 </p>
 
-
-
 ---
 
-<div align="left">
-  <h1>🏆 Github Profile Trophy 🏆</h1>
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=m14r41&theme=algolia)](https://github.com/m14r41/github-profile-trophy)
-
----
 <div align="center">
-  <h1> 🤝 My Contribution on github 🤝 </h1>
+  <h1>  My Contribution on github  </h1>
 </div>
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -129,15 +108,10 @@
   </a>
 </p>
 
-
 ---
 <div align="center">
-  <h1>📚 Github Profile Overview 📚</h1>
+  <h1> Github Profile Overview </h1>
 </div>
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m14r41&theme=tokyonight&show_icons=true" alt="GitHub Activity" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=m14r41&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 <p align="center">
     <a href="https://github.com/m14r41">
@@ -159,19 +133,6 @@
   
 
 </div>
-
-
-
----
-<div align="center">
-  <h1> 📊 My GitHub Stats 📊</h1>
-</div>
-
-<p align="center">
-  <img alt="Madhurendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m14r41&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117"/> <img alt="Madhurendra Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m14r41&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=false&bg_color=0D1117"/>
-</p>
-
-
 
 
 <div  align="center">
