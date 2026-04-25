@@ -37,7 +37,7 @@
 ---
 
 <div align="left" style="display: flex; align-items: center;">
-<h1>[root@security ~]$ whoami ... M14R41</h1>
+<h1>[M14R41@security ~]$ whoami ...</h1>
 
 </div>
 <p align="left">
