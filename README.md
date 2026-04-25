@@ -5,15 +5,15 @@
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=header" width="800"/>
   </p>
-<h1 align="center"><span style="background-color: green; line-height: 0;"><b>👨🏻‍💻 Hello 👾Hacker👾👨🏻</b><br></span></h1>
+<h1 align="center"><span style="background-color: green; line-height: 0;"><b>👨🏻‍💻 Hello Hacker👾</b><br></span></h1>
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png?v=2" alt="madhurendra hacker" height="50"
       />
   <img src="https://www.hackthebox.eu/badge/image/2413709" height="50">
-</p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge"/>
 </p>
 
 <p align="center" style="margin-top: 0; margin-bottom: 0;">
@@ -108,7 +108,31 @@
 |------|------|----|------|-----|-----------|--------|-------|---------|-----|----------|----|-----|-----|
 | <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> | <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> | <img src="https://img.icons8.com/color/48/000000/git.png"/> | <img src="https://img.icons8.com/color/48/000000/markdown.png"/> | <img src="https://img.icons8.com/color/48/000000/golang.png"/> | <img src="https://img.icons8.com/color/48/000000/php.png"/> | <img src="https://img.icons8.com/color/48/000000/sql.png"/> |
 
+
+
 ---
+<div align="left">
+  <h1>Cyber Security Projects </h1>
+</div>
+
+<p align="center">
+  <a href="https://github.com/m14r41/PentestingEverything">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=PentestingEverything&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/m14r41/wordlistForger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=wordlistForger&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/m14r41/scan4secrets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=scan4secrets&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/m14r41/Clickjacking-Poc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=Clickjacking-Poc&theme=tokyonight"/>
+  </a>
+</p>
+
 
 <div align="center">
   <h1>  My Contribution on github  </h1>
@@ -119,33 +143,33 @@
   </a>
 </p>
 
+
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m14r41&theme=tokyonight"/>
+</p>
+
+
+
 ---
 <div align="center">
-  <h1> Github Profile Overview </h1>
+  <h1> Github Activity Overview </h1>
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
 <p align="center">
     <a href="https://github.com/m14r41">
         <img 
             alt="m14r41 Activity Graph" 
             src="https://github-readme-activity-graph.vercel.app/graph?username=m14r41&theme=react-dark" 
             width="900"  
-            height="400"
             style="display: block; margin: 0 auto;"
         />
     </a>
 </p>
 
-
-<div align="center">
-  
-  ![](https://github.com/m14r41/M14R41/blob/main/github.svg)
-
-  
-
-</div>
-
-
+---
 <div  align="center">
   <table style="text-align: center;">
     <tr>
