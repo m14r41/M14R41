@@ -37,7 +37,7 @@
 ---
 
 <div align="left" style="display: flex; align-items: center;">
-  <h1>🙋‍♂️ Who am I? 🙋‍♂️ 
+<h1>[root@security ~]$ whoami ... M14R41</h1>
 
 </div>
 <p align="left">
@@ -53,11 +53,24 @@
 
 ---
 
-![Security](https://img.shields.io/badge/Security-Engineer-blue)
-![Web](https://img.shields.io/badge/Web-Security-green)
-![API](https://img.shields.io/badge/API-Security-orange)
-![Cloud](https://img.shields.io/badge/Cloud-Security-purple)
-![OpenSource](https://img.shields.io/badge/Open-Source-red)
+![Security Engineer](https://img.shields.io/badge/Security%20Engineer-Experienced-blue)
+![Web Application Security](https://img.shields.io/badge/Web%20App-Security-green)
+![API Security](https://img.shields.io/badge/API-Security-orange)
+![Application Security (AppSec)](https://img.shields.io/badge/AppSec-Engineering-red)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-purple)
+![Android Security](https://img.shields.io/badge/Android-Security-3DDC84)
+![iOS Security](https://img.shields.io/badge/iOS-Security-black)
+![Thick Client Security](https://img.shields.io/badge/Thick%20Client-Security-yellow)
+![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-critical)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability-Assessment-important)
+![SAST / Source Code Review](https://img.shields.io/badge/SAST-Source%20Code%20Review-lightgrey)
+![Threat Modeling](https://img.shields.io/badge/Threat-Modeling-blueviolet)
+![Security Design Review](https://img.shields.io/badge/Security-Design%20Review-lightgrey)
+![Security Automation](https://img.shields.io/badge/Security-Automation-00c7ff)
+![Responsible Disclosure](https://img.shields.io/badge/Responsible-Disclosure-success)
+![CVE Contributor](https://img.shields.io/badge/CVEs-red)
+![Open Source Security Contributor](https://img.shields.io/badge/Open%20Source-Contributor-red)
+
 
 ---
 
