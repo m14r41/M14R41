@@ -1,7 +1,10 @@
+
 <p align="center">
   <img src="https://github.com/m14r41/M14R41/assets/95265573/a2e58639-66b1-4682-8a26-f85f1457bb62 " alt="madhurendra" width="800" height="260" style="margin-left: 20px;">
 </p>
-
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=header" width="800"/>
+  </p>
 <h1 align="center"><span style="background-color: green; line-height: 0;"><b>👨🏻‍💻 Hello 👾Hacker👾👨🏻</b><br></span></h1>
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
@@ -34,30 +37,53 @@
 ---
 
 <div align="left" style="display: flex; align-items: center;">
-  <h1>🙋‍♂️ About Me 🙋‍♂️  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="margin-left: 10px;"/></h1>
- 
-</div>
+  <h1>🙋‍♂️ Who am I? 🙋‍♂️ 
 
+</div>
 <p align="left">
-  - Experienced Information Security Consultant || Security Engineer <br>
-  - Collaborate on Open Source Projects. <br>
+  <p align="left">
+   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Information+Security+Engineer;Web+%7C+API+%7C+Cloud+%7C+Network+Security;Android+%7C+iOS+%7C+Thick+Client+Security;Source+Code+Review+%7C+Threat+Modeling+%7C+Design+Review;Open-Source+Security+Contributor;Building+Security+Tools+and+Automation"/>
+    
+  • Working across technology & infrastructure for Pentesting <br>
+  • Focused on real-world security challenges, testing, and engineering practices <br>
+  • Sharing security knowledge and Building tools for penetration testing and automation <br>
+  • Active contributor to open-source security projects and research <br>
+</p>
 </p>
 
 ---
 
+![Security](https://img.shields.io/badge/Security-Engineer-blue)
+![Web](https://img.shields.io/badge/Web-Security-green)
+![API](https://img.shields.io/badge/API-Security-orange)
+![Cloud](https://img.shields.io/badge/Cloud-Security-purple)
+![OpenSource](https://img.shields.io/badge/Open-Source-red)
+
+---
+
+
+
+
 <div align="left">
   <h1> My GitHub Projects  </h1>
   <div align="left">
-    <a href="https://github.com/m14r41/PentestingEverything"> 🔒 PentestingEverything</a>  - Collection of over 15 types of penetration testing tools and resources.<br>
-    <a href="https://github.com/m14r41/Live-Hacker-Wallpaper">🔒 Live-Hacker-Wallpaper</a>  - Hacker Chrome Extention Live wallpaper .<br>
-    <a href="https://github.com/m14r41/scan4secrets"> 🕵️ scan4secrets</a> - Lightweight source code scanner with 400+ detection rules for secrets and sensitive info.<br>
-    <a href="https://github.com/m14r41/Scripting4Hackers">    🛠️ Scripting4Hackers</a>     - Awesome resources for learning Python and Bash for hackers.<br>
-    <a href="https://github.com/m14r41/SemgrepAnalyzer">      🔍 SemgrepAnalyzer</a>       - Enhanced `Semgrep` tool output in HTML for more visibility.<br>
-    <a href="https://github.com/m14r41/Clickjacking-Poc">     🖱️ Clickjacking-Poc</a>      - Proof of concept for clickjacking vulnerabilities.<br>
-    <a href="https://github.com/m14r41/LinuxEnv">             🐧 LinuxEnv</a>              - Automate Environment Variable configuration on Linux OS.<br>
-    <a href="https://github.com/m14r41/Segmentation-Testing"> 🌐 Segmentation-Testing</a>  - Tools and scripts for network segmentation testing.<br>
-    <a href="https://github.com/m14r41/Json2HTML">            🗂️ Json2HTML</a>             - Convert JSON data into styled HTML.<br>
-    <a href="https://github.com/m14r41/word2pdf">             📄 Word2PDF</a>              - Convert Word documents to PDF easily.<br>
+
+| Project | Description |
+|----------|-------------|
+| [PentestingEverything](https://github.com/m14r41/PentestingEverything) | Collection of over 15 types of penetration testing tools and resources. |
+| [wordlistForger](https://github.com/m14r41/wordlistForger) | Generates real wordlist of application like API keys, UUIDs, tokens, Order IDs, transaction IDs for brute-force and IDOR testing. |
+| [scan4secrets](https://github.com/m14r41/scan4secrets) | Lightweight source code scanner with 400+ rules for detecting secrets and sensitive information. |
+| [Scripting4Hackers](https://github.com/m14r41/Scripting4Hackers) | Resources for learning Python and Bash scripting for security and automation. |
+| [SemgrepAnalyzer](https://github.com/m14r41/SemgrepAnalyzer) | Enhanced Semgrep output visualization in HTML format for better analysis. |
+| [Clickjacking-Poc](https://github.com/m14r41/Clickjacking-Poc) | Proof of concept for clickjacking vulnerability testing. |
+| [Segmentation-Testing](https://github.com/m14r41/Segmentation-Testing) | Tools and scripts for testing network segmentation security. |
+| [Live-Hacker-Wallpaper](https://github.com/m14r41/Live-Hacker-Wallpaper) | Chrome extension providing live hacker-style wallpapers. |
+| [LinuxEnv](https://github.com/m14r41/LinuxEnv) | Automates environment variable setup on Linux systems. |
+| [Json2HTML](https://github.com/m14r41/Json2HTML) | Convert JSON data into structured and styled HTML format. |
+| [Word2PDF](https://github.com/m14r41/Word2PDF) | Simple utility to convert Word documents into PDF format. |
+
+  </div>
+</div>
   </div>
 </div>
     
@@ -77,26 +103,10 @@
 </p>
 
 ---
-<div align="left">
-  <h1> Programming Languages  </h1>
-</div>
 
-<p align="left">
-  <img src="https://img.icons8.com/plasticine/48/000000/bash.png" width="48" height="48"/>
-  <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"/></a>
-  <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" width="48" height="48"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48" height="48"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48"/></a>
-  <img src="https://img.icons8.com/color/48/000000/markdown.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48"/>
-</p>
+| Bash | Java | JS | HTML | CSS | Bootstrap | Python | MySQL | MongoDB | Git | Markdown | Go | PHP | SQL |
+|------|------|----|------|-----|-----------|--------|-------|---------|-----|----------|----|-----|-----|
+| <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/javascript.png"/> | <img src="https://img.icons8.com/color/48/000000/html-5.png"/> | <img src="https://img.icons8.com/color/48/000000/css3.png"/> | <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> | <img src="https://img.icons8.com/color/48/000000/python.png"/> | <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> | <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> | <img src="https://img.icons8.com/color/48/000000/git.png"/> | <img src="https://img.icons8.com/color/48/000000/markdown.png"/> | <img src="https://img.icons8.com/color/48/000000/golang.png"/> | <img src="https://img.icons8.com/color/48/000000/php.png"/> | <img src="https://img.icons8.com/color/48/000000/sql.png"/> |
 
 ---
 
