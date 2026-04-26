@@ -4,8 +4,9 @@
 </p>
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=header" width="800"/>
+  
   </p>
-<h1 align="center"><span style="background-color: green; line-height: 0;"><b>👨🏻‍💻 Hello Hacker👾</b><br></span></h1>
+<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=FF3B3B&size=24&center=true&vCenter=true&width=500&lines=👨🏻‍💻+Hello+Hackers,+welcome+here!" /><br> </h1>
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
@@ -35,25 +36,24 @@
 </div>
 
 ---
+```python
+[M14R41@security~]$ whoami 
+```
 
-<div align="left" style="display: flex; align-items: center;">
-<h1>[M14R41@security ~]$ whoami ...</h1>
-
-</div>
 <p align="left">
   <p align="left">
    <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Information+Security+Engineer;Web+%7C+API+%7C+Cloud+%7C+Network+Security;Android+%7C+iOS+%7C+Thick+Client+Security;Source+Code+Review+%7C+Threat+Modeling+%7C+Design+Review;Open-Source+Security+Contributor;Building+Security+Tools+and+Automation"/>
     
-  • Working across technology & infrastructure for Pentesting <br>
-  • Focused on real-world security challenges, testing, and engineering practices <br>
-  • Sharing security knowledge and Building tools for penetration testing and automation <br>
-  • Active contributor to open-source security projects and research <br>
+• Cyber Security Engineer working across modern tech  
+• Curious mind exploring flaws in systems  
+• Building tools for penetration testing, automation & security research  
+• Contributor to open-source security projects  
 </p>
-</p>
+
 
 ---
 
-![Security Engineer](https://img.shields.io/badge/Security%20Engineer-Experienced-blue)
+
 ![Web Application Security](https://img.shields.io/badge/Web%20App-Security-green)
 ![API Security](https://img.shields.io/badge/API-Security-orange)
 ![Application Security (AppSec)](https://img.shields.io/badge/AppSec-Engineering-red)
@@ -78,7 +78,7 @@
 
 
 <div align="left">
-  <h1> My GitHub Projects  </h1>
+  <h1> GitHub Projects  </h1>
   <div align="left">
 
 | Project | Description |
@@ -128,12 +128,26 @@
   <h1>Cyber Security Projects </h1>
 </div>
 
----
----
+<p align="center">
+  <a href="https://github.com/m14r41/PentestingEverything">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=PentestingEverything&theme=tokyonight"/>
+  </a>
 
+  <a href="https://github.com/m14r41/wordlistForger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=wordlistForger&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/m14r41/scan4secrets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=scan4secrets&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/m14r41/Clickjacking-Poc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=Clickjacking-Poc&theme=tokyonight"/>
+  </a>
+</p>
 
 <div align="center">
-  <h1>  My Contribution on github  </h1>
+  <h1>  Contribution on github  </h1>
 </div>
 <p align="center">
   <a href="https://git.io/streak-stats">
