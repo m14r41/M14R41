@@ -128,23 +128,8 @@
   <h1>Cyber Security Projects </h1>
 </div>
 
-<p align="center">
-  <a href="https://github.com/m14r41/PentestingEverything">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=PentestingEverything&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/m14r41/wordlistForger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=wordlistForger&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/m14r41/scan4secrets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=scan4secrets&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/m14r41/Clickjacking-Poc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m14r41&repo=Clickjacking-Poc&theme=tokyonight"/>
-  </a>
-</p>
+---
+---
 
 
 <div align="center">
