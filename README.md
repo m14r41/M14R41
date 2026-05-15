@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:000000&height=120&section=header" width="800"/>
   
   </p>
-<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=FF3B3B&size=24&center=true&vCenter=true&width=500&lines=👨🏻‍💻+Hello+Hackers,+welcome+here!" /><br> </h1>
+<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=FF3B3B&size=24&center=true&vCenter=true&width=500&lines=👨🏻‍💻+Hello+World,+welcome+here!" /><br> </h1>
 <h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
