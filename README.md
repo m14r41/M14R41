@@ -7,7 +7,7 @@
   
   </p>
 <h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=FF3B3B&size=24&center=true&vCenter=true&width=500&lines=+Hello+World,+welcome+here!" /><br> </h1>
-<h2 align="center" style="line-height:0;">🕵🏻 <b>I'm Madhurendra<b> 🕵🏻</h2>
+<h2 align="center" style="line-height:0;"> <b>I'm Madhurendra ➜ M14R41 </b> </h2>
 <p align="center" style="margin-bottom: 0;">
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/M14R41.png?v=2" alt="madhurendra hacker" height="50"
@@ -42,7 +42,7 @@
 
 <p align="left">
   <p align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Information+Security+Engineer;Web+%7C+API+%7C+Cloud+%7C+Network+Security;Android+%7C+iOS+%7C+Thick+Client+Security;Source+Code+Review+%7C+Threat+Modeling+%7C+Design+Review;Open-Source+Security+Contributor;Building+Security+Tools+and+Automation"/>
+  
     
 • Cyber Security Engineer working across modern tech  
 • Curious mind exploring flaws in systems  
@@ -58,8 +58,7 @@
 ![API Security](https://img.shields.io/badge/API-Security-orange)
 ![Application Security (AppSec)](https://img.shields.io/badge/AppSec-Engineering-red)
 ![Cloud Security](https://img.shields.io/badge/Cloud-Security-purple)
-![Android Security](https://img.shields.io/badge/Android-Security-3DDC84)
-![iOS Security](https://img.shields.io/badge/iOS-Security-black)
+![Android Security](https://img.shields.io/badge/Mobile-Security-3DDC84)
 ![Thick Client Security](https://img.shields.io/badge/Thick%20Client-Security-yellow)
 ![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-critical)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability-Assessment-important)
@@ -83,6 +82,7 @@
 
 | Project | Description |
 |----------|-------------|
+| [PentestingChecklist](https://github.com/m14r41/PentestingChecklist) | Collection of over 1800 plus checkList acrros 20 plus domain of VAPT enagement. |
 | [PentestingEverything](https://github.com/m14r41/PentestingEverything) | Collection of over 15 types of penetration testing tools and resources. |
 | [wordlistForger](https://github.com/m14r41/wordlistForger) | Generates real wordlist of application like API keys, UUIDs, tokens, Order IDs, transaction IDs for brute-force and IDOR testing. |
 | [scan4secrets](https://github.com/m14r41/scan4secrets) | Lightweight source code scanner with 400+ rules for detecting secrets and sensitive information. |
